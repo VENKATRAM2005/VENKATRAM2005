@@ -22,4 +22,4 @@ Computer Science Engineering student passionate about building real-world softwa
 - Java Mini Projects – Railway reservation, online examination, ATM simulation
 
 ## 📫 Contact
-Email: Venkatramhate345@gmail.com
+Email: venkatram2005@outlook.com | Venkatramhate345@gmail.com
