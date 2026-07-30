@@ -61,7 +61,7 @@ Git • GitHub • Maven • Postman • VS Code
 ## 📫 Connect
 
 - 📧 **Email:** **venkatramr2005@gmail.com**
-- 💼 LinkedIn *(Coming Soon)*
+- 💼 **LinkedIn:** [Venkatram R](https://www.linkedin.com/in/venkatram-r/)
 
 ---
 
