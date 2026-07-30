@@ -49,11 +49,8 @@ Git • GitHub • Maven • Postman • VS Code
 ## 📊 GitHub Stats
 
 <p align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=VENKATRAM2005&show_icons=true&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=VENKATRAM2005&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=VENKATRAM2005&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://streak-stats.demolab.com?user=VENKATRAM2005&theme=transparent&hide_border=true" height="165" />
 </p>
 
 ---
